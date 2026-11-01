@@ -1,0 +1,6 @@
+,path_coefficient,linear_rank,mean_normalised_importance,sd_normalised_importance,ann_rank,rank_agreement
+CEMP,0.51,1,100.0,0.0,1,same
+CEDP,0.266,2,49.686,8.142,2,same
+MLED,-0.245,3,47.192,15.661,3,same
+GLED,-0.015,5,26.536,16.346,4,differs
+DAIC,-0.024,4,22.387,12.328,5,differs
